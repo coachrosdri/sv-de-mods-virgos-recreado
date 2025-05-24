@@ -1,0 +1,58 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-05-16 03:27:08 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-05-16 03:27:09 +0000"
+    },
+    "done": true
+  },
+  "beachparty:main/root": {
+    "criteria": {
+      "example_criterion": "2025-05-16 03:27:09 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2025-05-16 03:27:09 +0000"
+    },
+    "done": true
+  },
+  "manic:technical/initiate_1.1.0": {
+    "criteria": {
+      "tick": "2025-05-16 03:27:08 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:overworld/patchouli": {
+    "criteria": {
+      "tick": "2025-05-16 03:27:08 +0000"
+    },
+    "done": true
+  },
+  "divinerpg:overworld/root": {
+    "criteria": {
+      "divinerpg": "2025-05-16 03:27:09 +0000"
+    },
+    "done": true
+  },
+  "nucleus:initiate_0.2.0": {
+    "criteria": {
+      "impossible": "2025-05-16 03:27:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_slopes": "2025-05-16 03:27:09 +0000",
+      "minecraft:cherry_grove": "2025-05-16 03:27:23 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}
